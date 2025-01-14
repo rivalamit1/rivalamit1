@@ -1,4 +1,4 @@
-# Amit-Gupta 
+# Amit-Gupta  
 
 ![logo](https://github.com/amitgupta1324/Amit-Gupta/blob/main/Amit%20Gupta.jpg)
 <h1 align="center">Hi 👋, I'm Amit Gupta</h1>
